@@ -1,0 +1,1 @@
+# bancoDeDadosIndex.js
